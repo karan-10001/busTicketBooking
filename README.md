@@ -1,1 +1,3 @@
-# Bus-Ticket-booking
+# BusTicketbooking
+
+My first python project with sqlite3.
